@@ -1,0 +1,30 @@
+.jumbotron {
+    width: 1200px;
+    background-color: #7f462c;
+}
+
+.display-4 {
+    text-align: center;
+    color: white;
+}
+
+.lead {
+    text-align: center;
+    color: white;
+}
+
+.card {
+    width: 1200px;
+    border-color: #337ab7;
+    margin-bottom: 30px;
+}
+
+.card-header {
+    height: 50px;
+    background-color: #337ab7;
+    color: white;
+}
+
+label {
+    font-weight: bold;
+}
